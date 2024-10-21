@@ -1,0 +1,2 @@
+# docs
+Linux Themes documentation.
